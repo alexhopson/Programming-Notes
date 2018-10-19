@@ -12,18 +12,18 @@
 
 ## Sub-Elements
 
-image: `<img src="url" alt="alt text">`
+**image** - `<img src="url" alt="alt text">`
 
-link to url: `<a href="url">link title as shown in-line</a>`
+**link to url** - `<a href="url">link title as shown in-line</a>`
 
-link to internal sections:
+**link to internal sections**
 ```
 <a href="#contacts-header">Contacts</a>
 ...
 <h2 id="contacts-header">Contacts</h2>
 ```
 
-dead link (to be updated later): set `href="#" `
+**dead link (to be updated later)** - set `href="#" `
 
 make an image a link: `<a href="#"><img src="url" alt="alt text"></a>`
 
